@@ -1,0 +1,8 @@
+樱花大战3 免CD补丁
+使用方法：
+安装SafeDiscShim：https://github.com/RibShark/SafeDiscShim
+复制exe至游戏根目录
+运行游戏
+
+如果还不能运行，请将windows10系统签名文件secdrv.sys复制到C:\\Windows\\System32\\drivers文件夹，即可运行游戏。
+
